@@ -1,0 +1,63 @@
+#reg {
+    color: rgb(51, 51, 51);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 48.2333px;
+    margin-bottom: 5px;
+    
+}
+#rap {
+    color: rgb(29, 33, 41);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 25.4667px;
+    
+}
+.login {
+    float: right;
+    max-width: 400px;
+}
+.ancho {
+    width: 100%;
+}
+#fec {
+    color: rgb(144, 148, 156);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.botongris {
+ background-color: rgb(255, 255, 255);
+ border-width: 1px;
+ border-color: rgb(204, 208, 213);
+ border-style: solid;
+ color: rgb(28,30,33);
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 13px;
+ height: 30px;
+ line-height: normal;
+ padding: 5px;
+}
+#sex{
+    color: rgb(144, 148, 156);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 21.4333px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.sexo{
+   color: rgb(29, 33, 41);
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 18px;
+   padding-left: 3px;
+   padding-right: 10px;
+   vertical-align: middle; 
+}
